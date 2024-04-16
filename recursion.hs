@@ -1,6 +1,4 @@
--- Brent Krous
--- CS 475
--- Week 4
+-- recursion - need to clean up
 -- BEGIN PROVIDED CODE --
 import Debug.Trace
 type PN = [Char]
