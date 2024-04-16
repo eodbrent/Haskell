@@ -58,7 +58,7 @@ p (('S':n):_) = n
 --  takes vec of two PNs, x and y.
 --  returns result of x - y
 sub :: Vec -> PN
-sub vec = case vec of
+sub vec = case vec of -- need to remove 'case of' edited code and forgot to remove this where i used it.
     [x, y] -> rho f_sub g_sub [y, "0", x]
 -- subtraction base_case
 --   returns last vec element (x - 0 = x)
