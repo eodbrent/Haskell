@@ -1,8 +1,6 @@
 {-
-Brent Krous
-CS475, Computation Theory
-Week 5/Topic 5, Lambda Calculus
-14 April 2024
+Computation Theory
+Lambda Calculus
 -}
 import Text.Show.Functions
 
